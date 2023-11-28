@@ -4,10 +4,10 @@ Repositorio donde se guardarán lecciones, laboratorios y material del curso
 
 ## Plan de estudio​
 
-Semana 1: Introducción, conceptos fundamentales y Quiz 1​
-Semana 2: Protocolos de IoT, Plataformas Cloud y Quiz 2​
-Semana 3: Desarrollo del proyecto de Sistemas Embebidos 1​
-Semana 4: Desarrollo del proyecto de Sistemas Embebidos 2
+- Semana 1: Introducción, conceptos fundamentales y Quiz 1​
+- Semana 2: Protocolos de IoT, Plataformas Cloud y Quiz 2​
+- Semana 3: Desarrollo del proyecto de Sistemas Embebidos 1​
+- Semana 4: Desarrollo del proyecto de Sistemas Embebidos 2
 
 ## Evaluación
 
