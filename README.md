@@ -23,3 +23,10 @@ Repositorio donde se guardarán lecciones, laboratorios y material del curso
 - Modalidad: 10 preguntas en total (opción múltiple y abiertas)
 - Peso del Quiz: 25%
 
+## Instructores
+- Lenin Cruz: leninjcruz@outlook.com
+- Salvador Trujillo: salvador_tr_c@hotmail.com
+
+## Asistente Tecnico
+- Marcel Moran: marcel.morancalderon@epfl.ch
+
